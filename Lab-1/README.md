@@ -1,15 +1,16 @@
-## TASK: Develop a new typeface of অ  and ক.
+## Experiment Name: Develop a new typeface of অ  and ক.
+
+**Course Code:** CSE-456 <br>
+**Course Title:** Multimedia and Animation Techniques Laboratory
 
 **Name:** Musfika Jahan <br>
 **ID:** 345 <br>
 **Session:** 4th Year 2nd Semester <br>
 
-**Course Code:** CSE-456 <br>
-**Course Title:** Multimedia and Animation Techniques Laboratory
- 
 
-### Equipments
+### Tools
 - Fontforge
 - Adobe Illustrator
    
-I have done this task using _H980x unicode_, specifically **"0985 code for অ "**  and **"0995 code for ক"**.
+I have done this task using H980x unicode, <br> For  "অ" , the code is "0985". <br>
+For  "ক " , the code is "0995".
